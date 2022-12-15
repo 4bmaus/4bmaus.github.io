@@ -1,4 +1,4 @@
-## Hello World
+# Hello World
 
 Hello! My name is Bryan Maus and I am a student at Cal State Fullerton and my major is Computer Science.
 
